@@ -1,9 +1,8 @@
 <h1>Hi 👋, I'm Vishesh Pandita</h1>
-<h3>A keen learner from India</h3>
+<!-- <h3>A keen learner from India</h3> -->
 
 <img align="center" alt="me" width="300" src="https://media.licdn.com/dms/image/D4D22AQEU0e-b5tMxFA/feedshare-shrink_2048_1536/0/1701258207172?e=2147483647&v=beta&t=xQ7IgzLOF_d8iG7rT0HqQpRTZBKAOy6-Tzl28CPPLmY">
 
-- 🌱I’m currently learning **Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
